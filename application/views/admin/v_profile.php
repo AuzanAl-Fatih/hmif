@@ -40,7 +40,7 @@
       <ul>
         <li><a href="#"><i class="fa fa-desktop"></i><span>Profile</span></a></li>
         <li><a href="#"><i class="fa fa-group"></i><span>Member</span></a></li>
-        <li><a href="#"><i class="glyphicon glyphicon-folder-open"></i><span>Repository</span></a></li>
+        <li><a href="#"><i class="fa fa-folder"></i><span>Repository</span></a></li>
         <li><a href="#"><i class="fa fa-calendar"></i><span>Event</span></a></li>
     </div>
     <!-- akhir sidebar -->
